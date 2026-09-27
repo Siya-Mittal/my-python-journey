@@ -1,0 +1,8 @@
+# conditional expression = A one-line shortcut for the if-else statement(ternary operator)
+#                          Print or assign of two values based on a condition X if condition else Y
+
+num = 5 
+
+print("positive" if num > 0 else "negative")
+result = "Even" if num % 2 == 0 else "Odd"
+print(result)
