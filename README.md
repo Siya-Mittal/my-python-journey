@@ -18,6 +18,7 @@ This repository documents my journey of learning Python, from the fundamentals t
 12. For Loops
 13. string indexing
 14. format specifiers
+15. while loop
 
 ## 📂 Repository Structure
 
@@ -37,7 +38,8 @@ python-journey/
 ├── 11_While_Loops/
 └── 12_For_Loops/
 |___13 string indexing
-|__14 format specifiers 
+|__14 format specifiers
+|__15 while_loop
 
 ```
 
